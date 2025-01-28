@@ -1,0 +1,40 @@
+{
+    "cookies": {
+        "utag_main_v_id": "019279ae00ee000b5d990a7d216a05065002805d0086e",
+        "_gcl_au": "1.1.998288803.1728618300",
+        "_scid": "5QXInLStUwBxeMGJ_J_zuN0ahBY6iahz",
+        "_fbp": "fb.2.1728618300476.32139424127125546",
+        "_ga": "GA1.1.1676196452.1728618301",
+        "_tt_enable_cookie": "1",
+        "_ttp": "JxyWSePWdKsdCbmuGbtEsrXx2cO",
+        "_ScCbts": "%5B%5D",
+        "_sctr": "1%7C1728576000000",
+        "_ga_5GKYJEBSN9": "GS1.1.1728639597.2.0.1728639597.60.0.0",
+        "utag_main__sn": "2",
+        "utag_main__se": "1%3Bexp-session",
+        "utag_main__ss": "1%3Bexp-session",
+        "utag_main__st": "1728644927435%3Bexp-session",
+        "utag_main_ses_id": "1728643127435%3Bexp-session",
+        "utag_main__pn": "1%3Bexp-session",
+        "utag_main_dc_visit": "2",
+        "utag_main_dc_event": "1%3Bexp-session",
+        "_scid_r": "8oXInLStUwBxeMGJ_J_zuN0ahBY6iahzt4cA-w",
+        "utag_main_dc_region": "ap-southeast-2%3Bexp-session",
+        "_ga_Q8BF6T8XSD": "GS1.1.1728643129.3.0.1728643129.60.0.0"
+    },
+    "headers": {
+        "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Linux\"",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-user": "?1",
+        "sec-fetch-dest": "document",
+        "referer": "https://www.griffith.edu.au/scholarships",
+        "accept-language": "en-US,en;q=0.9",
+        "priority": "u=0, i"
+    }
+}

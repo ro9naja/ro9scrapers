@@ -1,0 +1,40 @@
+{
+    "aom.org": [
+        "https://journals.aom.org/journal/amj",
+        "https://journals.aom.org/journal/amp",
+        "https://journals.aom.org/journal/amr",
+        "https://journals.aom.org/journal/annals"
+    ],
+    "sagepub.com": [
+        "https://journals.sagepub.com/home/ORM",
+        "https://journals.sagepub.com/home/OSS",
+        "https://journals.sagepub.com/home/asq",
+        "https://journals.sagepub.com/home/etp",
+        "https://journals.sagepub.com/home/hum",
+        "https://journals.sagepub.com/home/jom"
+    ],
+    "wiley.com": [
+        "https://onlinelibrary.wiley.com/journal/10970266",
+        "https://onlinelibrary.wiley.com/journal/14676486",
+        "https://onlinelibrary.wiley.com/journal/14678551",
+        "https://onlinelibrary.wiley.com/journal/15405885",
+        "https://onlinelibrary.wiley.com/journal/1932443x",
+        "https://onlinelibrary.wiley.com/journal/20425805"
+    ],
+    "informs.org": [
+        "https://pubsonline.informs.org/journal/mnsc",
+        "https://pubsonline.informs.org/journal/orsc"
+    ],
+    "cambridge.org": [
+        "https://www.cambridge.org/core/journals/business-ethics-quarterly"
+    ],
+    "palgrave.com": [
+        "https://www.palgrave.com/gp/journal/41267"
+    ],
+    "sciencedirect.com": [
+        "https://www.sciencedirect.com/journal/journal-of-business-venturing",
+        "https://www.sciencedirect.com/journal/journal-of-world-business",
+        "https://www.sciencedirect.com/journal/research-policy",
+        "https://www.sciencedirect.com/journal/the-leadership-quarterly"
+    ]
+}
