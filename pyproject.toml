@@ -8,6 +8,7 @@ dependencies = [
     "extruct>=0.18.0",
     "nodriver>=0.39",
     "parsel>=1.10.0",
+    "python-dotenv>=1.0.1",
     "rich>=13.9.4",
     "tls-client>=1.0.1",
 ]
