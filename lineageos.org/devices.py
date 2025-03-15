@@ -7,7 +7,7 @@ import tls_client
 from parsel import Selector
 from rich.logging import RichHandler
 
-URL = "https://wiki.lineageos.org/devices/"
+URL = "https://wiki.lineageos.org"
 
 
 def main():
@@ -21,9 +21,11 @@ def main():
         client_identifier="chrome_120",
         random_tls_extension_order=True,
     )
-    response = ses.get(URL)
-    logging.info(f"{URL}: {response.status_code}")
+    url = f"{URL}/devices/"
+    response = ses.get(url)
+    logging.info(f"{url}: {response.status_code}")
     sel = Selector(response.text)
+    sel.root.make_links_absolute(URL)
     brand_divs = sel.css(".devices[data-vendor]")
     for brand_div in brand_divs:
         brand = brand_div.xpath("./@data-vendor").get()
@@ -45,7 +47,7 @@ def main():
                 {
                     "devicename": device_name,
                     "codename": code_name,
-                    "link": link,
+                    "link": f"{URL}{link}",
                 }
             )
 
